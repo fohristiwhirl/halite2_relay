@@ -1,5 +1,5 @@
 # halite2_relay
-Internet relay for Halite
+Internet relay for Halite -- not really working yet
 
 # Prep:
 
