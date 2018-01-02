@@ -1,5 +1,5 @@
 # halite2_relay
-Internet relay for Halite -- not really working yet
+Internet relay for Halite -- not really working. Use [mlomb's version](https://github.com/mlomb/halite2-relay) instead.
 
 # Prep:
 
